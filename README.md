@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Macarious**  
-🚀 **DevSecOps Enthusiast | Continuous Learner | Security Enthusiast**  
+🚀 **DevSecOps Enthusiast | Security Enthusiast**  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK)
 ---
 
@@ -29,7 +29,18 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 ---
 
 ## 📚 **Key Projects**
-### 🛠️ [Book Library Management System](https://github.com/BeshoyEmad/book-library-management)
+### 🛠️ [DevOps Orange](https://github.com/Macarious-GK/DevOps_Orange.git)  
+- **Description**: Comprehensive DevSecOps project showcasing SSDLC integration and best practices.  
+- **Highlights**:  
+  - **DevSecOps SSDLC Integration**: Embeds security testing early in the development lifecycle using a "shift-left" approach.  
+  - **Dockerization Best Practices**: Multi-stage Docker builds and Docker Compose for efficient and secure container management.  
+  - **Kubernetes Orchestration**: AWS EKS for scalable cloud deployments, Minikube for local development, and security best practices like RBAC and Secrets Management.  
+  - **Security Tools**: Static Application Security Testing (SAST), Docker image scanning, and linting integrated into CI/CD pipelines.  
+  - **Infrastructure as Code**: Ansible, Terraform, and Vagrant for infrastructure provisioning and configuration management.  
+  - **GitOps with ArgoCD**: Continuous delivery and automated application synchronization from Git repositories.  
+  - **Monitoring System**: Prometheus, Grafana, and Alert Manager for system metrics, visualization, and alerting.  
+
+### 🛠️ [DevOps_Banque_Misr](https://github.com/Macarious-GK/DevOps_Banque_Misr.git)
 - **Description**: A Django-based system for managing library resources with a CI/CD pipeline emphasizing SSDLC.  
 - **Highlights**:  
   - Multi-stage Docker builds for efficiency and security.  
