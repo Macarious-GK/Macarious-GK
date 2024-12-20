@@ -1,6 +1,5 @@
 # 👋 Hello, I'm **Macarious**  
 <h1 align="center">🚀 <b>DevSecOps Enthusiast | Continuous Learner | Innovator</b></h1>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK)
 
 ## 🌟 **About Me**
 I'm a passionate **DevSecOps engineer** with expertise in integrating security into every stage of the software development lifecycle. My goal is to bridge the gap between development, operations, and security to deliver secure, scalable, and high-performing systems.
@@ -8,6 +7,8 @@ I'm a passionate **DevSecOps engineer** with expertise in integrating security i
 I believe in the power of automation, collaboration, and lifelong learning to stay ahead in the dynamic tech landscape.
 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK) 
+
 
 ## 💻 **Tech Stack**
 ### 🛠️ DevSecOps Tools
