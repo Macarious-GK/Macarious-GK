@@ -1,7 +1,6 @@
 # 👋 Hello, I'm **Macarious**  
 <h1 align="center">🚀 <b>DevSecOps Enthusiast | Continuous Learner | Innovator</b></h1>
-<h1 align="center">🚀![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK)</h2>
----
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK)
 
 ## 🌟 **About Me**
 I'm a passionate **DevSecOps engineer** with expertise in integrating security into every stage of the software development lifecycle. My goal is to bridge the gap between development, operations, and security to deliver secure, scalable, and high-performing systems.
@@ -59,6 +58,3 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   - Includes Prometheus and Grafana setups for system metrics and alerting.  
   - Helps monitor the health of applications and infrastructure in real-time.  
 
-
-## 📈 **GitHub Stats**
-![Beshoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macarious-GK&show_icons=true&theme=radical)
