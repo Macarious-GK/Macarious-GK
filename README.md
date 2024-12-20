@@ -12,7 +12,8 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 
 ## 💻 **Tech Stack**
 ### 🛠️ DevSecOps Tools
-- **CI/CD**: Jenkins, GitHub Actions  
+- **CI/CD**: Jenkins, GitHub Actions
+- **GitOps**: Argo CD
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
 - **Containerization**: Docker, Kubernetes (EKS)  
 - **Security Tools**: Snyk, Trivy, OWASP ZAP  
