@@ -1,5 +1,6 @@
 # 👋 Hello, I'm **Macarious**  
 🚀 **DevSecOps Enthusiast | Security Enthusiast**  
+<h1 align="center">🚀 <b>DevSecOps Enthusiast | Continuous Learner | Innovator</b></h1>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Macarious-GK)
 ---
 
