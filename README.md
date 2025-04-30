@@ -15,8 +15,9 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 - **CI/CD**: Jenkins, GitHub Actions
 - **GitOps**: Argo CD
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Containerization**: Docker, Kubernetes (EKS)  
-- **Security Tools**: Snyk, Trivy, OWASP ZAP  
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes (Minikube, EKS)  
+- **Security Tools**: Snyk, Trivy
 - **Cloud Providers**: AWS (EKS, EC2, S3, VPC)
 - **Monitoring & Logging Tools**: Prometheus, Grafana, ELK Stack
 
