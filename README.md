@@ -18,6 +18,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 - **Containerization**: Docker, Kubernetes (EKS)  
 - **Security Tools**: Snyk, Trivy, OWASP ZAP  
 - **Cloud Providers**: AWS (EKS, EC2, S3, VPC)
+- **Monitoring & Logging Tools**: Prometheus, Grafana, ELK Stack
 
 ---
 
