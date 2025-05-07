@@ -24,20 +24,20 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 <center>
 <table>
   <tr>
-    <td align="center"><a href=""><img src="Images/argo.png" width="75px;" height="75px;" alt="argocd"/><br /><b>ArgoCD</b></a></td>
-    <td align="center"><a href=""><img src="Images/jenkins.png" width="75px;" height="75px;" alt="jenkins"/><br /><b>Jenkins</b></a></td>
-    <td align="center"><a href=""><img src="Images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
+    <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/ArgoCD"><img src="Images/argo.png" width="75px;" height="75px;" alt="argocd"/><br /><b>ArgoCD</b></a></td>
+    <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Banque_Misr/tree/main/Jenkins"><img src="Images/jenkins.png" width="75px;" height="75px;" alt="jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="https://github.com/Macarious-GK/DevSecOps_Self_Intern/tree/main/.github/workflows"><img src="Images/githubactions.png" width="100px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
     <td align="center"><a href=""><img src="Images/docker.png" width="75px;" height="75px;" alt="docker" /><br /><b>Docker</b></a></td>
-    <td align="center"><a href=""><img src="Images/docker-compose.png" width="75px;" height="75px;" alt="docker-compose"/><br /><b>Docker-Compose</b></a></td>
-    <td align="center"><a href=""><img src="Images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="https://github.com/Macarious-GK/DevSecOps_Self_Intern/tree/main/docker-compose"><img src="Images/docker-compose.png" width="75px;" height="75px;" alt="docker-compose"/><br /><b>Docker-Compose</b></a></td>
+    <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/K8s"><img src="Images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
   </tr>
   <tr>
-      <td align="center"><a href=""><img src="Images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
-      <td align="center"><a href=""><img src="Images/vault.png" width="100px;" height="75px;" alt="vault"/><br /><b>Vault</b></a></td>
-      <td align="center"><a href=""><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
-      <td align="center"><a href=""><img src="Images/grafana.png" width="75px;" height="75px;" alt="grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href=""><img src="Images/promethues.png" width="100px;" height="75px;" alt="promethues"/><br /><b>Promethues</b></a></td>
-      <td align="center"><a href=""><img src="Images/elastic.png" width="75px;" height="75px;" alt="elastic"/><br /><b>elastic Stack</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Ansible"><img src="Images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Vault"><img src="Images/vault.png" width="100px;" height="75px;" alt="vault"/><br /><b>Vault</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Terraform"><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/grafana.png" width="75px;" height="75px;" alt="grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/promethues.png" width="100px;" height="75px;" alt="promethues"/><br /><b>Promethues</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/ELK"><img src="Images/elastic.png" width="75px;" height="75px;" alt="elastic"/><br /><b>elastic Stack</b></a></td>
   </tr>
 </table>
 </center>
