@@ -34,7 +34,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 
 ## 📚 **Key Projects**
 ### 🛠️ [DevOps Orange](https://github.com/Macarious-GK/DevOps_Orange.git)  
-**Description**: Comprehensive DevSecOps project showcasing SSDLC integration and best practices.  
+**Description**: Comprehensive DevSecOps Python project showcasing SSDLC integration and best practices.  
 <details>
 <summary><b>Highlights:</b></summary>  
 
