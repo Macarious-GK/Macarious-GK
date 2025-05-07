@@ -11,7 +11,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 
 
 ## 💻 **Tech Stack**
-### 🛠️ DevSecOps Tools
+### 🛠️ DevOps / DevSecOps Tools
 - **CI/CD**: Jenkins, GitHub Actions
 - **GitOps**: Argo CD
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
@@ -48,7 +48,17 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 - **Highlights**:  
   - Multi-stage Docker builds for efficiency and security.  
   - Kubernetes deployment using EKS with persistent volume support.  
-  - Jenkins pipeline integrating Flake8, unit tests, and Snyk for vulnerability scanning.  
+  - Jenkins pipeline integrating Flake8, unit tests, and Snyk for vulnerability scanning.
+
+### 🛠️ [DevOps Monitoring Tools](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
+- **Description**: A NodeJS + Express based system with a Mongo Database for storage.  
+- **Highlights**:  
+  - Multi-stage Docker builds for efficiency and security.
+  - Docker Compose deployment with monitoring and visualization.
+  - Kubernetes deployment and Kustomize for multiple deployment environments.
+  - Jenkins pipelines & GitHub Actions integrating unit tests and Snyk for vulnerability scanning.
+  - Applying GitOps principles using ArgoCD.
+  - Using Terraform for Infrastructure as Code to manage cloud resources.
 
 ### 🛠️ [Jenkins Shared Library](https://github.com/Macarious-GK/Jenkins-Shared-Library.git)
 - **Description**: A shared library for Jenkins pipelines to standardize and streamline CI/CD processes.  
@@ -58,7 +68,14 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 
 ### 🛠️ [DevOps Monitoring Tools](https://github.com/Macarious-GK/DevOps-Monitoring.git)  
 - **Description**: A collection of monitoring configurations and tools for DevOps workflows.  
-- **Highlights**:  
+<details>
+<summary><h4>Highlights:</h4>h4 </summary><br><b>
+
   - Includes Prometheus and Grafana setups for system metrics and alerting.  
   - Helps monitor the health of applications and infrastructure in real-time.  
+
+</b></details>
+
+
+
 
