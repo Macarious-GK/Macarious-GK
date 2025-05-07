@@ -1,5 +1,6 @@
+
 # 👋 Hello, I'm **Macarious**  
-<h1 align="center">🚀 <b>DevSecOps Enthusiast | Security Enthusiast</b></h1>
+<h1 align="center">🚀 <b>DevOps | DevSecOps | Security Enthusiast</b></h1>
 
 ## 🌟 **About Me**
 I'm a passionate **DevSecOps engineer** with expertise in integrating security into every stage of the software development lifecycle. My goal is to bridge the gap between development, operations, and security to deliver secure, scalable, and high-performing systems.
@@ -33,8 +34,10 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 
 ## 📚 **Key Projects**
 ### 🛠️ [DevOps Orange](https://github.com/Macarious-GK/DevOps_Orange.git)  
-- **Description**: Comprehensive DevSecOps project showcasing SSDLC integration and best practices.  
-- **Highlights**:  
+**Description**: Comprehensive DevSecOps project showcasing SSDLC integration and best practices.  
+<details>
+<summary><b>Highlights:</b></summary>  
+
   - **DevSecOps SSDLC Integration**: Embeds security testing early in the development lifecycle using a "shift-left" approach.  
   - **Dockerization Best Practices**: Multi-stage Docker builds and Docker Compose for efficient and secure container management.  
   - **Kubernetes Orchestration**: AWS EKS for scalable cloud deployments, Minikube for local development, and security best practices like RBAC and Secrets Management.  
@@ -42,40 +45,46 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   - **Infrastructure as Code**: Ansible, Terraform, and Vagrant for infrastructure provisioning and configuration management.  
   - **GitOps with ArgoCD**: Continuous delivery and automated application synchronization from Git repositories.  
   - **Monitoring System**: Prometheus, Grafana, and Alert Manager for system metrics, visualization, and alerting.  
+</details>
 
 ### 🛠️ [DevOps_Banque_Misr](https://github.com/Macarious-GK/DevOps_Banque_Misr.git)
-- **Description**: A Django-based system for managing library resources with a CI/CD pipeline emphasizing SSDLC.  
-- **Highlights**:  
+**Description**: A Django-based system for managing library resources with a CI/CD pipeline emphasizing SSDLC.  
+<details>
+<summary><b>Highlights:</b></summary>  
+
   - Multi-stage Docker builds for efficiency and security.  
   - Kubernetes deployment using EKS with persistent volume support.  
   - Jenkins pipeline integrating Flake8, unit tests, and Snyk for vulnerability scanning.
+</details>
 
 ### 🛠️ [DevOps Monitoring Tools](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
-- **Description**: A NodeJS + Express based system with a Mongo Database for storage.  
-- **Highlights**:  
+**Description**: A NodeJS + Express based system with a Mongo Database for storage.  
+<details>
+<summary><b>Highlights:</b></summary>
+
   - Multi-stage Docker builds for efficiency and security.
   - Docker Compose deployment with monitoring and visualization.
   - Kubernetes deployment and Kustomize for multiple deployment environments.
   - Jenkins pipelines & GitHub Actions integrating unit tests and Snyk for vulnerability scanning.
   - Applying GitOps principles using ArgoCD.
   - Using Terraform for Infrastructure as Code to manage cloud resources.
+</details>
 
 ### 🛠️ [Jenkins Shared Library](https://github.com/Macarious-GK/Jenkins-Shared-Library.git)
-- **Description**: A shared library for Jenkins pipelines to standardize and streamline CI/CD processes.  
-- **Highlights**:  
+**Description**: A shared library for Jenkins pipelines to standardize and streamline CI/CD processes.  
+<details>
+<summary><b>Highlights:</b></summary>
+
   - Includes functions for Docker image scanning, pipeline automation, and more.  
   - Enables reusability and consistency across pipelines.  
+</details>
 
 ### 🛠️ [DevOps Monitoring Tools](https://github.com/Macarious-GK/DevOps-Monitoring.git)  
-- **Description**: A collection of monitoring configurations and tools for DevOps workflows.  
+**Description**: A collection of monitoring configurations and tools for DevOps workflows.  
 <details>
-<summary><h4>Highlights:</h4>h4 </summary><br><b>
+<summary><b>Highlights:</b></summary>
 
-  - Includes Prometheus and Grafana setups for system metrics and alerting.  
-  - Helps monitor the health of applications and infrastructure in real-time.  
-
-</b></details>
-
-
-
+- Includes Prometheus and Grafana setups for system metrics and alerting.  
+- Enables real-time monitoring of application and infrastructure health.
+</details>
 
