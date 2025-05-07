@@ -26,9 +26,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   <tr>
     <td align="center"><a href=""><img src="Images/argo.png" width="75px;" height="75px;" alt="argocd"/><br /><b>ArgoCD</b></a></td>
     <td align="center"><a href=""><img src="Images/jenkins.png" width="75px;" height="75px;" alt="jenkins"/><br /><b>Jenkins</b></a></td>
-      <td align="center"><a href=""><img src="Images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-  </tr>
-  <tr>
+    <td align="center"><a href=""><img src="Images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
     <td align="center"><a href=""><img src="Images/docker.png" width="75px;" height="75px;" alt="docker" /><br /><b>Docker</b></a></td>
     <td align="center"><a href=""><img src="Images/docker-compose.png" width="75px;" height="75px;" alt="docker-compose"/><br /><b>Docker-Compose</b></a></td>
     <td align="center"><a href=""><img src="Images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
@@ -37,8 +35,6 @@ I believe in the power of automation, collaboration, and lifelong learning to st
       <td align="center"><a href=""><img src="Images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
       <td align="center"><a href=""><img src="Images/vault.png" width="100px;" height="75px;" alt="vault"/><br /><b>Vault</b></a></td>
       <td align="center"><a href=""><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
-  </tr>
-  <tr>
       <td align="center"><a href=""><img src="Images/grafana.png" width="75px;" height="75px;" alt="grafana"/><br /><b>Grafana</b></a></td>
       <td align="center"><a href=""><img src="Images/promethues.png" width="100px;" height="75px;" alt="promethues"/><br /><b>Promethues</b></a></td>
       <td align="center"><a href=""><img src="Images/elastic.png" width="75px;" height="75px;" alt="elastic"/><br /><b>elastic Stack</b></a></td>
