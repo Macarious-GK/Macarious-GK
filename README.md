@@ -57,7 +57,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   - Jenkins pipeline integrating Flake8, unit tests, and Snyk for vulnerability scanning.
 </details>
 
-### 🛠️ [DevOps Monitoring Tools](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
+### 🛠️ [DevSecOps_Self_Intern](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
 **Description**: A NodeJS + Express based system with a Mongo Database for storage.  
 <details>
 <summary><b>Highlights:</b></summary>
