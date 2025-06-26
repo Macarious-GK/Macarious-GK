@@ -52,6 +52,21 @@ I believe in the power of automation, collaboration, and lifelong learning to st
 ---
 
 ## 📚 **Key Projects**
+
+### 🛠️ [DevSecOps_Self_Intern](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
+**Description**: A NodeJS + Express based system with a Mongo Database for storage.  
+<details>
+<summary><b>Highlights:</b></summary>
+
+  - Multi-stage Docker builds for efficiency and security.
+  - Docker Compose deployment with monitoring and visualization.
+  - Kubernetes deployment and Kustomize for multiple deployment environments.
+  - Jenkins pipelines & GitHub Actions integrating unit tests and Snyk for vulnerability scanning.
+  - Applying GitOps principles using ArgoCD.
+  - Using Terraform for Infrastructure as Code to manage cloud resources.
+</details>
+
+
 ### 🛠️ [DevOps Orange](https://github.com/Macarious-GK/DevOps_Orange.git)  
 **Description**: Comprehensive DevSecOps Python project showcasing SSDLC integration and best practices.  
 <details>
@@ -76,18 +91,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   - Jenkins pipeline integrating Flake8, unit tests, and Snyk for vulnerability scanning.
 </details>
 
-### 🛠️ [DevSecOps_Self_Intern](https://github.com/Macarious-GK/DevSecOps_Self_Intern.git)
-**Description**: A NodeJS + Express based system with a Mongo Database for storage.  
-<details>
-<summary><b>Highlights:</b></summary>
 
-  - Multi-stage Docker builds for efficiency and security.
-  - Docker Compose deployment with monitoring and visualization.
-  - Kubernetes deployment and Kustomize for multiple deployment environments.
-  - Jenkins pipelines & GitHub Actions integrating unit tests and Snyk for vulnerability scanning.
-  - Applying GitOps principles using ArgoCD.
-  - Using Terraform for Infrastructure as Code to manage cloud resources.
-</details>
 
 ### 🛠️ [Jenkins Shared Library](https://github.com/Macarious-GK/Jenkins-Shared-Library.git)
 **Description**: A shared library for Jenkins pipelines to standardize and streamline CI/CD processes.  
