@@ -37,7 +37,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
       <td align="center"><a href="https://github.com/Macarious-GK/Terraform"><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/grafana.png" width="75px;" height="75px;" alt="grafana"/><br /><b>Grafana</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/promethues.png" width="100px;" height="75px;" alt="promethues"/><br /><b>Promethues</b></a></td>
-      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/ELK"><img src="Images/elastic.png" width="75px;" height="75px;" alt="elastic"/><br /><b>elastic Stack</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/CloudEngineer/blob/main/AWS%20Solutions%20Architect/Final_Exam_Prep.md"><img src="Images/aws_saa.png" width="75px;" height="75px;" alt="elastic"/><br /><b>AWS SAA</b></a></td>
   </tr>
 </table>
 </center>
