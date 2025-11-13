@@ -34,7 +34,7 @@ I believe in the power of automation, collaboration, and lifelong learning to st
   <tr>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Ansible"><img src="Images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Vault"><img src="Images/vault.png" width="100px;" height="75px;" alt="vault"/><br /><b>Vault</b></a></td>
-      <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/Terraform"><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
+      <td align="center"><a href="https://github.com/Macarious-GK/Terraform"><img src="Images/terraform.png" width="75px;" height="75px;" alt="terraform"/><br /><b>Terraform</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/grafana.png" width="75px;" height="75px;" alt="grafana"/><br /><b>Grafana</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps-Monitoring.git"><img src="Images/promethues.png" width="100px;" height="75px;" alt="promethues"/><br /><b>Promethues</b></a></td>
       <td align="center"><a href="https://github.com/Macarious-GK/DevOps_Orange/tree/main/ELK"><img src="Images/elastic.png" width="75px;" height="75px;" alt="elastic"/><br /><b>elastic Stack</b></a></td>
